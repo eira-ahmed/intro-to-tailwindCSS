@@ -1,9 +1,4 @@
-﻿# Intro to Tailwind CSS
-
-This project is a beginner-friendly demonstration of **Tailwind CSS**.  
-It shows how to build simple and responsive web page sections using Tailwind utility classes.
-
-## Project Overview
+﻿
 
 This project contains multiple HTML files to practice different Tailwind CSS features such as:
 
